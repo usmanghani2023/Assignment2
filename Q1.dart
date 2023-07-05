@@ -8,4 +8,7 @@ void main() {
   ];
 
   print(names);
+  names.forEach((days) {
+    print(days);
+  });
 }
